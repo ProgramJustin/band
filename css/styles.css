@@ -1,0 +1,22 @@
+.banner img{
+  height: 100%;
+  width: inherit;
+}
+
+.shows {
+  float: left;
+}
+
+.about {
+  float: left;
+  width: 600px;
+}
+
+.pix img{
+  height: inherit;
+  width: 400px;
+}
+
+.pix {
+  float: right;
+}
